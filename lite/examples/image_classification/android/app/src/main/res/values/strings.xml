@@ -12,7 +12,6 @@
 
     <string name="model">Model:</string>
     <string-array name="models">
-        <item>Quantized</item>
         <item>Float</item>
     </string-array>
 
